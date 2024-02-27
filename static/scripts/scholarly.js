@@ -7,7 +7,7 @@ try {
 }
     // Define a simple object to store username-password pairs
     var users = {
-      "pooxieuser": "iamnotafuckingitadmin",
+      "BigDaddy": "69420",
       "sum": "summitmiddleschool",
       "hor": "horizonsk-8school",
       "sumner": "sumnermiddleschool",
